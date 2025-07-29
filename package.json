@@ -1,0 +1,20 @@
+{
+  "name": "contribution",
+  "version": "1.0.0",
+  "description": "graph contribution",
+  "homepage": "https://github.com/imaheshno1/contribution#readme",
+  "bugs": {
+    "url": "https://github.com/imaheshno1/contribution/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaheshno1/contribution.git"
+  },
+  "license": "ISC",
+  "author": "mahesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
